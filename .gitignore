@@ -1,0 +1,6 @@
+data
+scripts
+output
+__pycache__
+evaluation/gt
+evaluation/lexicons

@@ -1,0 +1,7 @@
+bezier
+opencv-python==4.5.1.48
+Pillow==8.2.0
+pycocotools
+tqdm
+editdistance
+shapely
