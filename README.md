@@ -165,7 +165,7 @@ python evaluation/eval.py \
 ## Copyright
 This repository can only be used for non-commercial research purpose.
 
-For commercial use, please contact Dr. Lianwen Jin (eelwjin@scut.edu.cn).
+For commercial use, please contact Prof. Lianwen Jin (eelwjin@scut.edu.cn).
 
 Copyright 2022, [Deep Learning and Vision Computing Lab](http://www.dlvc-lab.net), South China University of Technology. 
 
