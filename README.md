@@ -1,6 +1,6 @@
 # SPTS: Single-Point Text Spotting (ACM MM 2022 Oral)
 
-The official implementation of [SPTS: Single-Point Text Spotting](https://arxiv.org/abs/2112.07917) (ACM MM 2022 Oral). The SPTS tackles scene text spotting as an end-to-end sequence prediction task and requires only extremely low-cost single-point annotations. Below is the overall architecture of SPTS.
+The official implementation of [SPTS: Single-Point Text Spotting](https://arxiv.org/abs/2112.07917) (ACM MM 2022 Oral). The SPTS tackles scene text spotting as an end-to-end sequence prediction task and requires only extremely low-cost single-point annotations. Below is the overall architecture of SPTS. SPTS v2 will be released soon.
 
 ![SPTS](figures/method.svg)
 
