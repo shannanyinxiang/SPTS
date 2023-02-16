@@ -156,7 +156,15 @@ python evaluation/eval.py \
 
 The end-to-end recognition performances of SPTS on four public benchmarks are:
 
-| Dataset |
+| Dataset | Strong | Weak | Generic |
+| ------- | ------ | ---- | ------- |
+| ICDAR 2013 | 93.3 | 91.7 | 88.5 |
+| ICDAR 2015 | 77.5 | 70.2 | 65.8 |
+
+| Dataset | None | Full |
+| ------- | ---- | ---- |
+| Total-Text | 74.2 | 82.4 |
+| SCUT-CTW1500 | 63.6 | 83.8 |
 
 ## Citation
 ```
