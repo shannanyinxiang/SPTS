@@ -152,6 +152,12 @@ python evaluation/eval.py \
        # --lexicon_type 0 # used for ICDAR2013 and ICDAR2015. 0: Generic; 1: Weak; 2: Strong.
 ```
 
+## Performance
+
+The end-to-end recognition performances of SPTS on four public benchmarks are:
+
+| Dataset |
+
 ## Citation
 ```
 @inproceedings{peng2022spts,
