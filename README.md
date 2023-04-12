@@ -80,6 +80,7 @@ data
 
 The model training in the original paper uses 32 GPUs (4 nodes, 8 GPUs per node). Below are the instructions for the training using a single machine with 8 GPUs, which can be simply modified to multi-node training following [PyTorch Distributed Docs](https://pytorch.org/docs/1.8.0/distributed.html).
 ### 1. Pretrain
+You can download our pretrained weight from [Google Drive](https://drive.google.com/file/d/1nI4KlHTbFxgVI8pNSGjbTRxS4OohgTq5/view?usp=sharing) or [BaiduNetDisk](https://pan.baidu.com/s/1yNSTZNfEYdmy_3lstkUoFg?pwd=syz3), or pretrain the model from scratch using the following command.
 ```
 python -m torch.distributed.launch \
        --nproc_per_node=8 \
