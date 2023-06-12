@@ -5,7 +5,7 @@ The official implementation of [SPTS: Single-Point Text Spotting](https://arxiv.
 ![SPTS](figures/method.svg)
 
 ## News
-- SPTS v2 will be released at [link](https://github.com/Yuliang-Liu/SPTSv2).
+- SPTS v2 is available at [link](https://github.com/bytedance/SPTSv2).
 - SPTS is included in [MMOCR](https://github.com/open-mmlab/mmocr).
 
 ## Environment
