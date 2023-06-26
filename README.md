@@ -179,6 +179,13 @@ The end-to-end recognition performances of SPTS on four public benchmarks are:
   booktitle={Proceedings of the 30th ACM International Conference on Multimedia},
   year={2022}
 }
+
+@article{liu2023spts,
+  title={SPTS v2: Single-Point Scene Text Spotting},
+  author={Liu, Yuliang and Zhang, Jiaxin and Peng, Dezhi and Huang, Mingxin and Wang, Xinyu and Tang, Jingqun and Huang, Can and Lin, Dahua and Shen, Chunhua and Bai, Xiang and Jin, Lianwen},
+  journal={arXiv preprint arXiv:2301.01635},
+  year={2023}
+}
 ```
 
 ## Copyright
