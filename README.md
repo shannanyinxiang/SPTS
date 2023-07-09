@@ -7,6 +7,7 @@ The official implementation of [SPTS: Single-Point Text Spotting](https://arxiv.
 ## News
 - SPTS v2 is available at [link](https://github.com/bytedance/SPTSv2).
 - SPTS is included in [MMOCR](https://github.com/open-mmlab/mmocr).
+- NPTS is available at [link](https://github.com/shannanyinxiang/SPTS/tree/npts).
 
 ## Environment
 We recommend using [Anaconda](https://www.anaconda.com/) to manage environments. Run the following commands to install dependencies.
