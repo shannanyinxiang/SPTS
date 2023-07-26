@@ -44,7 +44,7 @@ def decode_pred_seq(index_seq, prob_seq, target, args):
     prob_seq = prob_seq[:-1]
     if len(index_seq) % 27 != 0:
         index_seq = index_seq[:-len(index_seq)%27]
-        prob_seq = index_seq[:-len(index_seq)%27]
+        prob_seq = prob_seq[:-len(index_seq)%27]
     
     decode_results = decode_seq(index_seq, 'none', args)
     confs = prob_seq.reshape(-1, 27).mean(-1)
